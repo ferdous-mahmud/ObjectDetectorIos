@@ -4,6 +4,13 @@
 The app in this sample identifies the most prominent object in an image by using MobileNet,
 an open source image classifier model that recognizes around 1,000 different categories.
 
+## Screenshot
+
+Initial Screen             |  Camera Screen
+:-------------------------:|:-------------------------:
+![Initial Screen](https://user-images.githubusercontent.com/62091371/205447846-6a2877d4-1ef4-460f-b109-2a62136d0940.png)  |  ![Camera Screen](https://user-images.githubusercontent.com/62091371/205447833-4466870e-9b67-4e94-9100-9f1e85fa3765.png)
+
+
 ## How to use
 Each time a user selects a photo from the library or takes a photo with a camera,
 the app passes it to a [Vision][Vision] image classification request.
